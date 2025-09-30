@@ -67,6 +67,17 @@ A comprehensive full-stack educational website that provides free access to nurs
 - **Git** for version control
 - **Internet connection** for package downloads
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Book Browsing
+![Book Browsing](screenshots/book-browsing.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
 ## 🚀 Quick Start
 
 ### 1. Clone Repository
