@@ -1,0 +1,17 @@
+# Virtual environment
+nursing_books_env/
+
+# Database
+db.sqlite3
+*.db
+
+# Media files (uploaded content)
+media/
+
+# Django secret key and settings
+local_settings.py
+.env
+
+# Python cache
+__pycache__/
+*.pyc
